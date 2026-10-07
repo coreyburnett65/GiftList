@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GiftList.Api/GiftList.Api.csproj" />
+    <Project Path="src/GiftList.AppHost/GiftList.AppHost.csproj" />
+    <Project Path="src/GiftList.Application/GiftList.Application.csproj" />
+    <Project Path="src/GiftList.Infrastructure/GiftList.Infrastructure.csproj" />
+    <Project Path="src/GiftList.ServiceDefaults/GiftList.ServiceDefaults.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GiftList.Api.Tests/GiftList.Api.Tests.csproj" />
+    <Project Path="tests/GiftList.Application.Tests/GiftList.Application.Tests.csproj" />
+  </Folder>
+</Solution>
